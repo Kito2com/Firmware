@@ -58,3 +58,4 @@ add_subdirectory(terrain_estimation)
 add_subdirectory(tunes)
 add_subdirectory(version)
 add_subdirectory(WeatherVane)
+add_subdirectory(kito2)   # Insert 2020/5/4

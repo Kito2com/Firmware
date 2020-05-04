@@ -34,6 +34,7 @@ else
 	#
 	param set SYS_MC_EST_GROUP 2
 	ekf2 start
+	kito2_estimator start
 fi
 
 ###############################################################################

@@ -97,6 +97,7 @@ const struct {
 	{"int",			test_int,		0},
 	{"IntrusiveQueue",	test_IntrusiveQueue,	0},
 	{"jig_voltages",	test_jig_voltages,	OPT_NOALLTEST},
+	{"kito2",		test_kito2,		0},
 	{"List",		test_List,		0},
 	{"mathlib",		test_mathlib,		0},
 	{"matrix",		test_matrix,		0},

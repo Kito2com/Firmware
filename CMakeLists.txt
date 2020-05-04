@@ -260,7 +260,7 @@ message(STATUS "cmake build type: ${CMAKE_BUILD_TYPE}")
 #=============================================================================
 # project definition
 #
-project(px4 CXX C ASM)
+project(px4_kito2 CXX C ASM)
 
 set(package-contact "px4users@googlegroups.com")
 
